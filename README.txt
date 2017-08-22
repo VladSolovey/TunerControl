@@ -3,6 +3,6 @@ Amplyfire works with tuner wich consists of two variable capacitors and one vari
 For each ham band all of this parts should be tuned in exact positions.
 
 Arduino board gets singal from band decoder and sets 3 servos in early programmed positions.
-Positon programming is carried out by pressing 4 buttons connected to board. 
+Positon programming is carried out by pressing 4 buttons connected to board. All buttons are connected to one input of board.
 
 ra9qat@mail.ru
